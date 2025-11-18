@@ -33,7 +33,7 @@ This project models a basic e-commerce environment and demonstrates how to desig
 - Designed to be easily extendable for additional e-commerce features.
 
 ## Output
-![Uploading image.png…]()
+<img width="745" height="240" alt="image" src="https://github.com/user-attachments/assets/5ea26397-630f-4d4b-bbe0-f884fdb366f6" />
 
 ---
 # Assignment_2
@@ -87,6 +87,46 @@ By completing these tasks, the database now contains:
 
 These operations demonstrate practical SQL skills and show how to maintain accuracy and consistency within a relational database.
 
+---
+# Assignment3
+---
+- Using select statement to print all tables data
+- **Printing Data of Customer Table**
+<img width="339" height="181" alt="image" src="https://github.com/user-attachments/assets/c7d56f4d-07c0-434d-996d-11365741c56d" />
+
+- **Printing Data of Product table**
+<img width="388" height="164" alt="image" src="https://github.com/user-attachments/assets/886dfe66-bcc8-42fd-94ca-06bd95898674" />
+
+-  **Printing data of Catogories table**
+<img width="403" height="207" alt="image" src="https://github.com/user-attachments/assets/37b63a15-f867-4d1f-89e7-c7b8319ab867" />
+
+- **Printing data of Orders table**
+<img width="581" height="261" alt="image" src="https://github.com/user-attachments/assets/5bad8745-fbf4-4395-8c64-5460f1a115bd" />
 
 
+- **Printing data or ordersItem**
+- 
+
+- using select statement to print particular columns
+<img width="617" height="254" alt="image" src="https://github.com/user-attachments/assets/a494b263-720d-472e-8b50-2de1135fe3a8" />
+
+---
+## Selecting particular columns from particular tables
+<img width="471" height="247" alt="image" src="https://github.com/user-attachments/assets/30ef7681-6947-4aad-8d68-3e97bcede4c1" />
+
+---
+<img width="692" height="218" alt="image" src="https://github.com/user-attachments/assets/0b2543f8-f593-49e2-b780-23fd6937922e" />
+---
+<img width="829" height="238" alt="image" src="https://github.com/user-attachments/assets/92d41f8f-ad73-42c0-81ce-bd9d266a871a" />
+
+---
+<img width="989" height="210" alt="image" src="https://github.com/user-attachments/assets/eb9dfb79-4608-44e5-a32f-3be38817a186" />
+
+---
+<img width="720" height="231" alt="image" src="https://github.com/user-attachments/assets/bceae2d7-53c8-4fb4-bee8-43fa4b04fc36" />
+---
+
+![Uploading image.png…]()
+
+---
 
