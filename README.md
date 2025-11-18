@@ -141,4 +141,13 @@ These operations demonstrate practical SQL skills and show how to maintain accur
 <img width="509" height="237" alt="image" src="https://github.com/user-attachments/assets/0b75f6ae-47b2-4dfa-8e5f-cd3178cea6dc" />
 
 ---
+<img width="650" height="457" alt="image" src="https://github.com/user-attachments/assets/79757a0b-634a-49a7-8bbc-f47db9e10e76" />
+---
+- Using Limit
+  
 ![Uploading image.png…]()
+
+---
+# Assignment 4
+---
+
