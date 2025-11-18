@@ -126,7 +126,19 @@ These operations demonstrate practical SQL skills and show how to maintain accur
 <img width="720" height="231" alt="image" src="https://github.com/user-attachments/assets/bceae2d7-53c8-4fb4-bee8-43fa4b04fc36" />
 ---
 
-![Uploading image.png…]()
+<img width="700" height="259" alt="image" src="https://github.com/user-attachments/assets/77f11792-45f8-40ad-9818-b5d71bc3dd67" />
 
 ---
+## Use of Or operator
 
+<img width="418" height="248" alt="image" src="https://github.com/user-attachments/assets/04b1fbc1-0ebf-47c9-9790-074c3f2e178c" />
+---
+## Use of And Operator
+<img width="757" height="230" alt="image" src="https://github.com/user-attachments/assets/21ad2a7a-836d-42ed-8105-d7a6ee9a3396" />
+
+---
+## using order by clause
+<img width="509" height="237" alt="image" src="https://github.com/user-attachments/assets/0b75f6ae-47b2-4dfa-8e5f-cd3178cea6dc" />
+
+---
+![Uploading image.png…]()
