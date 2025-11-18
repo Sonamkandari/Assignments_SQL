@@ -31,3 +31,6 @@ This project models a basic e-commerce environment and demonstrates how to desig
 ## 📌 Notes
 - Schema follows normalization principles.
 - Designed to be easily extendable for additional e-commerce features.
+
+## Output
+![Uploading image.png…]()
